@@ -1,5 +1,4 @@
-# Technical Assessment for Web Developer
-
+# Technical Assessment 
 ### Tasks Done:
 
 -   Responsive webpage using CSS3/JS.
